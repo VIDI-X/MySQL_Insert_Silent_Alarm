@@ -30,7 +30,7 @@ char pass[] = "1234";        // your network password
 uint16_t server_port = 3306;
 
 char default_database[] = "1234";           //"test_database";
-char default_table[]    = "1234";          //"test_table";
+char default_table[]    = "VIDI_X_Data";          //"test_table";
 
 char user[]         = "1234";              // MySQL user login username
 char password[]     = "1234";          // MySQL user login password
